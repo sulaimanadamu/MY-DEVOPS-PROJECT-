@@ -1,3 +1,6 @@
 [submodule "Environment-setup-mini-project"]
 	path = Environment-setup-mini-project
 	url = https://github.com/sulaimanadamu/Environment-setup-mini-project.git
+[submodule "version-control-system"]
+	path = version-control-system
+	url = https://github.com/sulaimanadamu/version-control-system.git
